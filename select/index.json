@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "色・ホワイトブレンド",
+  "base_artist": "中山美穂",
+  "createdAt": "2026-04-05T10:52:40.838993Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "色・ホワイトブレンド",
+      "artist": "Mariya Takeuchi",
+      "has_synced": true,
+      "path": "select/01_色・ホワイトブレンド_Mariya_Takeuchi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "色・ホワイトブレンド",
+      "artist": "竹内まりや",
+      "has_synced": true,
+      "path": "select/02_色・ホワイトブレンド_竹内まりや.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "色・ホワイトブレンド",
+      "artist": "竹内まりや",
+      "has_synced": true,
+      "path": "select/03_色・ホワイトブレンド_竹内まりや.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "色・ホワイトブレンド",
+      "artist": "Mariya Takeuchi",
+      "has_synced": true,
+      "path": "select/04_色・ホワイトブレンド_Mariya_Takeuchi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "色･ホワイトブレンド",
+      "artist": "竹内まりや",
+      "has_synced": true,
+      "path": "select/05_色・ホワイトブレンド_竹内まりや.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "色・ホワイトブレンド <2014リマスター>",
+      "artist": "中山美穂",
+      "has_synced": false,
+      "path": "select/06_色・ホワイトブレンド__2014リマスター_中山美穂.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "色・ホワイトブレンド",
+      "artist": "Miho Nakayama",
+      "has_synced": true,
+      "path": "select/07_色・ホワイトブレンド_Miho_Nakayama.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "色・ホワイトブレンド",
+      "artist": "中山美穂",
+      "has_synced": true,
+      "path": "select/08_色・ホワイトブレンド_中山美穂.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Iro White Blend (色・ホワイトブレンド)",
+      "artist": "竹内まりや",
+      "has_synced": false,
+      "path": "select/09_Iro_White_Blend_(色・ホワイトブレンド)_竹内まりや.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "色・ホワイトブレンド",
+      "artist": "竹内まりや (Mariya Takeuchi)",
+      "has_synced": true,
+      "path": "select/10_色・ホワイトブレンド_竹内まりや_(Mariya_Takeuchi).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "色・ホワイトブレンド",
+      "artist": "中山 美穂",
+      "has_synced": false,
+      "path": "select/pl_01_色・ホワイトブレンド_中山_美穂.txt"
+    }
+  ]
+}
